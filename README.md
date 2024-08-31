@@ -6,4 +6,4 @@ My name is Usman Khan
      + ~~It was very simple~~
        - It was a very complex and hard paper 
 3. I got admitted into the software program \
-![Usman photo new](Henry_Stickmin.jpg)
+![Usman photo new](Usman'sPhoto_Resized.jpg)
