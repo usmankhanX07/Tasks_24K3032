@@ -7,4 +7,4 @@ My name is Usman Khan
        - It was a very complex and hard paper 
 3. I got admitted into the software program
 <br>
-![Usman photo new](https://github.com/user-attachments/assets/0c1d711b-a3ad-433a-aeb0-8c881daabb15)
+![Usman photo new](https://static.wikia.nocookie.net/scamp-fan127/images/f/f7/Henry_Stickmin.png/revision/latest?cb=20220206194437)
