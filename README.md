@@ -5,6 +5,5 @@ My name is Usman Khan
 2. I gave an entrance exam
      + ~~It was very simple~~
        - It was a very complex and hard paper 
-3. I got admitted into the software program
-<br>
+3. I got admitted into the software program \
 ![Usman photo new](Henry_Stickmin.jpg)
