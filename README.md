@@ -1,5 +1,5 @@
 # Introduction
-My name is Usman Khan
+My name is Usman Khan, **I was born on December 7**.
 
 1. I applied to FAST Karachi
 2. I gave an entrance exam
